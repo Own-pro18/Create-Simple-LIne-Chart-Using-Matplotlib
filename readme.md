@@ -12,4 +12,4 @@
     -Grid style,position
     -line colors
     -Marker
-# Linechart, Pie chart and barchart using Matplotlib 
+## Linechart, Pie chart and barchart using Matplotlib 
